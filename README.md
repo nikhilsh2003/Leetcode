@@ -12,10 +12,12 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nikhilsh2003/Leetcode/tree/master/0013-roman-to-integer) |
+| [3567-convert-date-to-binary](https://github.com/nikhilsh2003/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nikhilsh2003/Leetcode/tree/master/0013-roman-to-integer) |
+| [3567-convert-date-to-binary](https://github.com/nikhilsh2003/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Array
 |  |
 | ------- |
