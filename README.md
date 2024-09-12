@@ -24,6 +24,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsh2003/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilsh2003/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3495-k-th-nearest-obstacle-queries](https://github.com/nikhilsh2003/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nikhilsh2003/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/nikhilsh2003/Leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Sliding Window
@@ -48,4 +49,8 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3495-k-th-nearest-obstacle-queries](https://github.com/nikhilsh2003/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 <!---LeetCode Topics End-->
