@@ -33,6 +33,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [3495-k-th-nearest-obstacle-queries](https://github.com/nikhilsh2003/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nikhilsh2003/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/nikhilsh2003/Leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/nikhilsh2003/Leetcode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 ## Sliding Window
 |  |
 | ------- |
@@ -51,10 +52,12 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/nikhilsh2003/Leetcode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 ## Sorting
 |  |
 | ------- |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
+| [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/nikhilsh2003/Leetcode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
