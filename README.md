@@ -50,6 +50,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/nikhilsh2003/Leetcode/tree/master/0278-first-bad-version) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Greedy
 |  |
@@ -78,4 +79,8 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/nikhilsh2003/Leetcode/tree/master/1894-merge-strings-alternately) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/nikhilsh2003/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
