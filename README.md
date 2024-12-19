@@ -30,6 +30,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsh2003/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nikhilsh2003/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1755-defuse-the-bomb](https://github.com/nikhilsh2003/Leetcode/tree/master/1755-defuse-the-bomb) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/nikhilsh2003/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilsh2003/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/nikhilsh2003/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
@@ -53,6 +54,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | ------- |
 | [0278-first-bad-version](https://github.com/nikhilsh2003/Leetcode/tree/master/0278-first-bad-version) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nikhilsh2003/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [2000-minimum-speed-to-arrive-on-time](https://github.com/nikhilsh2003/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Greedy
 |  |
