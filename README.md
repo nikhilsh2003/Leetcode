@@ -34,6 +34,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nikhilsh2003/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1755-defuse-the-bomb](https://github.com/nikhilsh2003/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/nikhilsh2003/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nikhilsh2003/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilsh2003/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/nikhilsh2003/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
@@ -61,10 +62,12 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nikhilsh2003/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nikhilsh2003/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/nikhilsh2003/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nikhilsh2003/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 ## Greedy
 |  |
 | ------- |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nikhilsh2003/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/nikhilsh2003/Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/nikhilsh2003/Leetcode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
