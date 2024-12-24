@@ -104,4 +104,12 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0410-split-array-largest-sum) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nikhilsh2003/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nikhilsh2003/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
