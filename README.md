@@ -28,6 +28,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsh2003/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/nikhilsh2003/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nikhilsh2003/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nikhilsh2003/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -53,10 +54,12 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsh2003/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Binary Search
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/nikhilsh2003/Leetcode/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/nikhilsh2003/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nikhilsh2003/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nikhilsh2003/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -67,6 +70,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nikhilsh2003/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3528-reach-end-of-array-with-max-score](https://github.com/nikhilsh2003/Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
@@ -96,4 +100,8 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/nikhilsh2003/Leetcode/tree/master/0278-first-bad-version) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
