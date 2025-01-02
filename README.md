@@ -23,6 +23,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [0013-roman-to-integer](https://github.com/nikhilsh2003/Leetcode/tree/master/0013-roman-to-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/nikhilsh2003/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/nikhilsh2003/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3567-convert-date-to-binary](https://github.com/nikhilsh2003/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Array
 |  |
@@ -36,6 +37,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [1755-defuse-the-bomb](https://github.com/nikhilsh2003/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/nikhilsh2003/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nikhilsh2003/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilsh2003/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/nikhilsh2003/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
@@ -104,6 +106,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Linked List
 |  |
 | ------- |
