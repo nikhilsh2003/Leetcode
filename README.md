@@ -26,6 +26,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nikhilsh2003/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/nikhilsh2003/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilsh2003/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2465-shifting-letters-ii](https://github.com/nikhilsh2003/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3567-convert-date-to-binary](https://github.com/nikhilsh2003/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Array
@@ -41,6 +42,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/nikhilsh2003/Leetcode/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/nikhilsh2003/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2358-number-of-ways-to-split-array](https://github.com/nikhilsh2003/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/nikhilsh2003/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilsh2003/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
@@ -113,6 +115,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nikhilsh2003/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilsh2003/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/nikhilsh2003/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/nikhilsh2003/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Linked List
 |  |
