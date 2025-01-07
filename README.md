@@ -23,6 +23,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | ------- |
 | [0013-roman-to-integer](https://github.com/nikhilsh2003/Leetcode/tree/master/0013-roman-to-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/nikhilsh2003/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1524-string-matching-in-an-array](https://github.com/nikhilsh2003/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/nikhilsh2003/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1894-merge-strings-alternately](https://github.com/nikhilsh2003/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nikhilsh2003/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -38,6 +39,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [0907-koko-eating-bananas](https://github.com/nikhilsh2003/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nikhilsh2003/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nikhilsh2003/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1524-string-matching-in-an-array](https://github.com/nikhilsh2003/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nikhilsh2003/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1755-defuse-the-bomb](https://github.com/nikhilsh2003/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/nikhilsh2003/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -132,4 +134,8 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilsh2003/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/nikhilsh2003/Leetcode/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
