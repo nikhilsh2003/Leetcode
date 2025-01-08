@@ -30,6 +30,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilsh2003/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/nikhilsh2003/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nikhilsh2003/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3567-convert-date-to-binary](https://github.com/nikhilsh2003/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Array
 |  |
@@ -49,6 +50,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [2465-shifting-letters-ii](https://github.com/nikhilsh2003/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilsh2003/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nikhilsh2003/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3495-k-th-nearest-obstacle-queries](https://github.com/nikhilsh2003/Leetcode/tree/master/3495-k-th-nearest-obstacle-queries) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nikhilsh2003/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -138,4 +140,17 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/nikhilsh2003/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nikhilsh2003/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nikhilsh2003/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nikhilsh2003/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/nikhilsh2003/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
