@@ -9,6 +9,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [0013-roman-to-integer](https://github.com/nikhilsh2003/Leetcode/tree/master/0013-roman-to-integer) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilsh2003/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilsh2003/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/nikhilsh2003/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/nikhilsh2003/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 ## Math
 |  |
@@ -31,6 +32,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [2465-shifting-letters-ii](https://github.com/nikhilsh2003/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nikhilsh2003/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/nikhilsh2003/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3567-convert-date-to-binary](https://github.com/nikhilsh2003/Leetcode/tree/master/3567-convert-date-to-binary) |
 ## Array
 |  |
@@ -153,4 +155,8 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nikhilsh2003/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Counting
+|  |
+| ------- |
+| [3455-minimum-length-of-string-after-operations](https://github.com/nikhilsh2003/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 <!---LeetCode Topics End-->
