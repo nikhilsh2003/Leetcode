@@ -7,6 +7,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nikhilsh2003/Leetcode/tree/master/0013-roman-to-integer) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilsh2003/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilsh2003/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nikhilsh2003/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -164,4 +165,24 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nikhilsh2003/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Design
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
