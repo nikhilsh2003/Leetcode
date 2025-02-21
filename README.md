@@ -36,6 +36,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nikhilsh2003/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/nikhilsh2003/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3567-convert-date-to-binary](https://github.com/nikhilsh2003/Leetcode/tree/master/3567-convert-date-to-binary) |
+| [3709-find-special-substring-of-length-k](https://github.com/nikhilsh2003/Leetcode/tree/master/3709-find-special-substring-of-length-k) |
 ## Array
 |  |
 | ------- |
