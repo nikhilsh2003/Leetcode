@@ -41,6 +41,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhilsh2003/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsh2003/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/nikhilsh2003/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -101,6 +102,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0015-3sum) |
 | [3485-maximize-score-of-numbers-in-ranges](https://github.com/nikhilsh2003/Leetcode/tree/master/3485-maximize-score-of-numbers-in-ranges) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/nikhilsh2003/Leetcode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3779-eat-pizzas](https://github.com/nikhilsh2003/Leetcode/tree/master/3779-eat-pizzas) |
@@ -120,6 +122,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhilsh2003/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0015-3sum) |
 | [1894-merge-strings-alternately](https://github.com/nikhilsh2003/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Interactive
 |  |
