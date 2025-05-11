@@ -8,6 +8,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | ------- |
 | [0013-roman-to-integer](https://github.com/nikhilsh2003/Leetcode/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/nikhilsh2003/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/nikhilsh2003/Leetcode/tree/master/0146-lru-cache) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilsh2003/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilsh2003/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -148,6 +149,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | ------- |
 | [0086-partition-list](https://github.com/nikhilsh2003/Leetcode/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/nikhilsh2003/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/nikhilsh2003/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/nikhilsh2003/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -197,9 +199,14 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/nikhilsh2003/Leetcode/tree/master/0146-lru-cache) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nikhilsh2003/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
