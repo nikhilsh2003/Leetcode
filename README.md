@@ -126,6 +126,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhilsh2003/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0015-3sum) |
+| [0086-partition-list](https://github.com/nikhilsh2003/Leetcode/tree/master/0086-partition-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilsh2003/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1894-merge-strings-alternately](https://github.com/nikhilsh2003/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Interactive
@@ -145,6 +146,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/nikhilsh2003/Leetcode/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/nikhilsh2003/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0206-reverse-linked-list](https://github.com/nikhilsh2003/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
