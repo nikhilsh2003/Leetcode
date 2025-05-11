@@ -13,7 +13,7 @@ class LRUCache {
 public:
     Node *head,*tail;
     int capacity;
-    map<int, Node*> mp;
+    unordered_map<int, Node*> mp;
     
     LRUCache(int capacity) {
         this->capacity=capacity;
