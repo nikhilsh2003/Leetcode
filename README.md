@@ -187,16 +187,19 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Design
@@ -207,6 +210,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Doubly-Linked List
