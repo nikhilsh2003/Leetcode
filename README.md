@@ -40,6 +40,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [3455-minimum-length-of-string-after-operations](https://github.com/nikhilsh2003/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3567-convert-date-to-binary](https://github.com/nikhilsh2003/Leetcode/tree/master/3567-convert-date-to-binary) |
 | [3709-find-special-substring-of-length-k](https://github.com/nikhilsh2003/Leetcode/tree/master/3709-find-special-substring-of-length-k) |
+| [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/nikhilsh2003/Leetcode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 ## Array
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [3528-reach-end-of-array-with-max-score](https://github.com/nikhilsh2003/Leetcode/tree/master/3528-reach-end-of-array-with-max-score) |
 | [3531-minimum-amount-of-damage-dealt-to-bob](https://github.com/nikhilsh2003/Leetcode/tree/master/3531-minimum-amount-of-damage-dealt-to-bob) |
 | [3779-eat-pizzas](https://github.com/nikhilsh2003/Leetcode/tree/master/3779-eat-pizzas) |
+| [3800-longest-common-prefix-between-adjacent-strings-after-removals](https://github.com/nikhilsh2003/Leetcode/tree/master/3800-longest-common-prefix-between-adjacent-strings-after-removals) |
 ## Sliding Window
 |  |
 | ------- |
