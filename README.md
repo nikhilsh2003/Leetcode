@@ -46,6 +46,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhilsh2003/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/nikhilsh2003/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsh2003/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilsh2003/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -81,6 +82,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/nikhilsh2003/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsh2003/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Binary Search
@@ -130,6 +132,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhilsh2003/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/nikhilsh2003/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/nikhilsh2003/Leetcode/tree/master/0086-partition-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilsh2003/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1894-merge-strings-alternately](https://github.com/nikhilsh2003/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -228,4 +231,12 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/nikhilsh2003/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nikhilsh2003/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/nikhilsh2003/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
