@@ -7,6 +7,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/nikhilsh2003/Leetcode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/nikhilsh2003/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/nikhilsh2003/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/nikhilsh2003/Leetcode/tree/master/0146-lru-cache) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -48,6 +49,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [0015-3sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/nikhilsh2003/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsh2003/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/nikhilsh2003/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilsh2003/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/nikhilsh2003/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -239,4 +241,8 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilsh2003/Leetcode/tree/master/0042-trapping-rain-water) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nikhilsh2003/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
