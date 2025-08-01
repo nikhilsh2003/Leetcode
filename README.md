@@ -6,6 +6,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhilsh2003/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/nikhilsh2003/Leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilsh2003/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/nikhilsh2003/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -26,6 +27,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhilsh2003/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/nikhilsh2003/Leetcode/tree/master/0013-roman-to-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/nikhilsh2003/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nikhilsh2003/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -77,6 +79,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nikhilsh2003/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1755-defuse-the-bomb](https://github.com/nikhilsh2003/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nikhilsh2003/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/nikhilsh2003/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
