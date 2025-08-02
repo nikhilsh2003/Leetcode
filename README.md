@@ -11,6 +11,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [0128-longest-consecutive-sequence](https://github.com/nikhilsh2003/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/nikhilsh2003/Leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/nikhilsh2003/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/nikhilsh2003/Leetcode/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/nikhilsh2003/Leetcode/tree/master/0146-lru-cache) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/nikhilsh2003/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/nikhilsh2003/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -30,6 +31,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilsh2003/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/nikhilsh2003/Leetcode/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/nikhilsh2003/Leetcode/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/nikhilsh2003/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/nikhilsh2003/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/nikhilsh2003/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -54,6 +56,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [0042-trapping-rain-water](https://github.com/nikhilsh2003/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsh2003/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilsh2003/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/nikhilsh2003/Leetcode/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilsh2003/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0907-koko-eating-bananas](https://github.com/nikhilsh2003/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -91,6 +94,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilsh2003/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsh2003/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/nikhilsh2003/Leetcode/tree/master/0139-word-break) |
 | [0410-split-array-largest-sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/nikhilsh2003/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Binary Search
@@ -182,6 +186,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/nikhilsh2003/Leetcode/tree/master/0139-word-break) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/nikhilsh2003/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
 |  |
@@ -258,4 +263,8 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/nikhilsh2003/Leetcode/tree/master/0133-clone-graph) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/nikhilsh2003/Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
