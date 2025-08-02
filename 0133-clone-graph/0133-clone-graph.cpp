@@ -23,33 +23,26 @@ class Solution {
 public:
     Node* cloneGraph(Node* node) {
         if(!node) return node;
-        map<int, Node*> newNode;
+        map<int, Node*> oldMap;
         stack<Node*> st;
         st.push(node);
-        newNode[1]=new Node(1);
+        map<int, Node*> newMap;
+        oldMap[node->val]=node;
         while(!st.empty()) {
             Node* topV=st.top();
+            newMap[topV->val]=new Node(topV->val);
             st.pop();
             for(auto &x:topV->neighbors) {
-                if(newNode.find(x->val)!=newNode.end()) continue;
-                newNode[x->val]=new Node(x->val);
+                if(oldMap.find(x->val)!=oldMap.end()) continue;
+                oldMap[x->val]=x;
                 st.push(x);
             }
         }
-        st.push(node);
-        set<int> stCount;
-        stCount.insert(1);
-        while(!st.empty()) {
-            Node* topV=st.top();
-            Node* newTop=newNode[topV->val];
-            st.pop();
-            for(auto &x:topV->neighbors) {
-                newTop->neighbors.push_back(newNode[x->val]);
-                if(stCount.count(x->val)!=0) continue;
-                stCount.insert(x->val);
-                st.push(x);
+        for(auto &x:oldMap) {
+            for(auto y:x.second->neighbors) {
+                newMap[x.first]->neighbors.push_back(newMap[y->val]);
             }
         }
-        return newNode[1];
+        return newMap[1];
     }
 };
