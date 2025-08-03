@@ -54,6 +54,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | ------- |
 | [0011-container-with-most-water](https://github.com/nikhilsh2003/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nikhilsh2003/Leetcode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/nikhilsh2003/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/nikhilsh2003/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nikhilsh2003/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/nikhilsh2003/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -102,6 +103,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nikhilsh2003/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nikhilsh2003/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilsh2003/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/nikhilsh2003/Leetcode/tree/master/0278-first-bad-version) |
