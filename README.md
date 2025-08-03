@@ -148,6 +148,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [0042-trapping-rain-water](https://github.com/nikhilsh2003/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0086-partition-list](https://github.com/nikhilsh2003/Leetcode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/nikhilsh2003/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/nikhilsh2003/Leetcode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nikhilsh2003/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0647-palindromic-substrings](https://github.com/nikhilsh2003/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1894-merge-strings-alternately](https://github.com/nikhilsh2003/Leetcode/tree/master/1894-merge-strings-alternately) |
@@ -171,11 +172,13 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 | [0086-partition-list](https://github.com/nikhilsh2003/Leetcode/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/nikhilsh2003/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/nikhilsh2003/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/nikhilsh2003/Leetcode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/nikhilsh2003/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/nikhilsh2003/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/nikhilsh2003/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/nikhilsh2003/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Bit Manipulation
 |  |
@@ -254,6 +257,7 @@ Here is my leetcode profile https://leetcode.com/nikhilsh20/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nikhilsh2003/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/nikhilsh2003/Leetcode/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
